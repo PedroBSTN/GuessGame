@@ -3,7 +3,7 @@
 Projeto simples desenvolvido em Java que simula um jogo de adivinhação entre três jogadores. O sistema gera um número aleatório entre 0 e 9, e cada jogador tenta adivinhar esse número até que um ou mais participantes acertem.
 
 
-🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 Geração de número aleatório entre 0 e 9.
 
@@ -17,7 +17,7 @@ Exibição das tentativas e dos resultados no console.
 
 Encerramento automático quando houver um vencedor.
 
-📚 Conceitos aplicados
+# 📚 Conceitos aplicados
 
 Programação Orientada a Objetos (POO)
 
@@ -33,11 +33,11 @@ Variáveis booleanas
 
 Geração de números aleatórios com Math.random()
 
-🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 Java
 
-▶️ Como executar
+# ▶️ Como executar
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
