@@ -1,4 +1,4 @@
-🎮 *Guess Game Java
+🎮 *Guess Game Java*
 
 Projeto simples desenvolvido em Java que simula um jogo de adivinhação entre três jogadores. O sistema gera um número aleatório entre 0 e 9, e cada jogador tenta adivinhar esse número até que um ou mais participantes acertem.
 
